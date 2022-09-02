@@ -1,1 +1,1 @@
-![]()
+![](https://raw.githubusercontent.com/lvning/substrate-node-template/main/result.png)
